@@ -1,4 +1,4 @@
-![](https://github.com/Hukunaa/BattleCommander/blob/main/battlecommander.mp4)
+![](https://github.com/Hukunaa/BattleCommander/blob/main/battlecommandergif.gif)
 # Battle Commander
 
 This project is a one week technical test for the Vodoo company to apply as a casual game developer.
